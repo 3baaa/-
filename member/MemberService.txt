@@ -1,0 +1,14 @@
+package mem;
+
+public class MemberService {
+	MemberDAO memDAO;
+	
+	public MemberService() {
+		memDAO = new MemberDAO();
+	}
+	
+	public boolean checklog(MemberVO memberVO) {
+		boolean result = memDAO.isExisted(memberVO);
+		return result;
+	}
+}
