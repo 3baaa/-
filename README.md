@@ -9,9 +9,11 @@
 </ul>
 
 # 개발 관련 내용 
-웹 백엔드 = java, jsp
-웹 프런트엔드 = html/css , javascript
-rdbms = 오라클 db
-하둡과 하이브
-서버 = centos6(하둡) , centos7(웹서버)
-인증 시스템 = Kerveros
+<ul>
+<li>웹 백엔드 = java, jsp
+<li>웹 프런트엔드 = html/css , javascript
+<li>rdbms = 오라클 db
+<li>하둡과 하이브
+<li>서버 = centos6(하둡) , centos7(웹서버)
+<li>인증 시스템 = Kerveros
+</ul>
