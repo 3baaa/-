@@ -10,7 +10,7 @@
 
 # 개발 관련 내용 
 <ul>
-<li>웹 백엔드 = java, jsp
+<li>웹 백엔드 = java, jsp ,servlet
 <li>웹 프런트엔드 = html/css , javascript
 <li>rdbms = 오라클 db
 <li>하둡과 하이브
